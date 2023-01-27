@@ -71,7 +71,7 @@ const data = [[
     "150",
     "Umum"
 ],[
-    "1",
+    "4",
     "12/12/2020",
     "123456",
     "John Doe",
@@ -155,10 +155,10 @@ const TableSection = () => {
                             borderRadius: "7px",
                             outline: "none",
                             background: "#f2f2f2"
-                        }} placeholder="Search" />
+                        }} placeholder="Cari Data Parsien" />
                         <button style={{
                             marginLeft: "10px",
-                        }} className="btn btn-primary">Search</button>
+                        }} className="btn btn-primary">Carl</button>
                     </div>
 
                 </div>
