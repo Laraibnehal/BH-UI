@@ -1,3 +1,4 @@
+![ui assignment](https://user-images.githubusercontent.com/95610027/215141156-8de9dd54-bc14-464e-8841-93f2c11bf605.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
