@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+:root{
+  --blue: #083AA9;
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+  box-sizing: border-box;
+}
+
+body{
+  overflow: hidden;
+}
+
+.mt-3{
+  margin-top: 20px;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.console {
+  border: 2px solid red;
+}
+
+.btn-primary{
+  background-color: var(--blue);
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px
+}
+
+th, td{
+  text-align: left;
+  padding: 10px;
+  cursor: pointer;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
